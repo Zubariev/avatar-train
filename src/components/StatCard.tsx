@@ -1,6 +1,6 @@
 
 import React from 'react';
-import Card from './ui/Card';
+import Card from './ui/card';
 import ProgressBar from './ui/ProgressBar';
 
 interface StatCardProps {

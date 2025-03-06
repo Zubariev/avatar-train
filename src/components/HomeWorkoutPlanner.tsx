@@ -3,8 +3,8 @@ import React, { useState } from 'react';
 import WorkoutPlannerHeader from './WorkoutPlannerHeader';
 import WorkoutCard from './WorkoutCard';
 import StatCard from './StatCard';
-import Card from './ui/Card';
-import Badge from './ui/Badge';
+import Card from './ui/card';
+import Badge from './ui/badge';
 import ProgressBar from './ui/ProgressBar';
 
 const HomeWorkoutPlanner: React.FC = () => {
